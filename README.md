@@ -3,8 +3,8 @@
 ## Sobre mim
 
  - 📍  Eu sou de Pernambuco, Brasil.
- - 👨🏾‍💻 Atualmente estou aprendendo sobre desenvolvimento de front-end.
- - 🎓 Conhecimento em HTML, CSS e Javascript.
+ - 👨🏾‍💻 Desenvolvedor front-end, aprendendo Back-end.
+ - 🎓 Conhecimento em HTML, CSS, Javascript, React, Node.JS e MySQL.
  - 💼 Estou em busca de minha primeira oportunidade profissional. 
  
 
@@ -13,6 +13,6 @@
 ## About me
 
  - 📍  I’m from Pernambuco, Brazil.
- - 👨🏾‍💻 I'm currently learning about Front-end development.
- - 🎓 Knowledge about HTML, CSS and Javascript.
+ - 👨🏾‍💻 Front-end developer, learning Back-end.
+ - 🎓 Knowledge about HTML, CSS and Javascript, React, Node.JS e MySQL.
  - 💼 I'm looking for my first professional opportunity.
